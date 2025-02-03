@@ -1,0 +1,1 @@
+The Doctor Appointment Portal is a web-based platform that simplifies the process of booking medical appointments. It allows patients to find and schedule appointments with doctors based on their specialization, availability, and location. The system also provides doctors with an interface to manage their schedules and appointments efficiently.
